@@ -10,3 +10,4 @@ usage example
 
 ![ex2](https://user-images.githubusercontent.com/77910713/113428088-d295fd80-93de-11eb-9739-f3f30744be04.JPG)
 
+Jar file is located in GUI_U_QR_Code_Utp / FinalGuiQr / out /
