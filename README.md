@@ -2,9 +2,9 @@
 
 ## Description
 
-This application allows you to receive Ucode or QRCode based on the public key of the Utopia profile.
+This application allows you to receive uCode or QRCode based on the public key of the Utopia profile.
 
-It is based on a library for working with the Utopia api.
+It is based on a library for working with the Utopia API.
 
 ## Usage example
 
