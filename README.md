@@ -1,12 +1,12 @@
-# GUI_U_QR_Code_Utp
+# ucode-android-app
 
-description
+## Description
 
 This application allows you to receive Ucode or QRCode based on the public key of the Utopia profile.
 
 It is based on a library for working with the Utopia api.
 
-usage example
+## Usage example
 
 1 - Run and enter token and port
 
